@@ -4,3 +4,12 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ellias664/live-session_-19thjuly.git
 git push -u origin main
+
+
+When we do any change in our existing or add any files.
+git add .
+git commit -m"new git commands added"
+git push
+
+Task:
+In new addition should be pushed to github
